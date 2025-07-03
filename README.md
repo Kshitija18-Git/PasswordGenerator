@@ -25,7 +25,7 @@ This is a simple Java Swing application that generates random passwords based on
 ### Prerequisites
 
 - Java Development Kit (JDK) installed on your machine.
-- An IDE or text editor for Java development (e.g., IntelliJ IDEA, Eclipse, or Visual Studio Code).
+- An IDE or text editor for Java development (Eclipse).
 
 ### Installation
 
